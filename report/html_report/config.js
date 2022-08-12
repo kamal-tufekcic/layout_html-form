@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document-0.png",
-        "test": "../bitmaps_test/20220811-224605/Entire_document-0.png",
+        "test": "../bitmaps_test/20220812-152742/Entire_document-0.png",
         "selector": "document",
         "fileName": "Entire_document-0.png",
         "label": "Entire document",
@@ -21,7 +21,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.52",
-          "analysisTime": 65
+          "analysisTime": 54
         }
       },
       "status": "pass"
@@ -29,7 +29,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Form-0.png",
-        "test": "../bitmaps_test/20220811-224605/Form-0.png",
+        "test": "../bitmaps_test/20220812-152742/Form-0.png",
         "selector": "form",
         "fileName": "Form-0.png",
         "label": "Form",
@@ -46,7 +46,7 @@ report({
             "height": -19
           },
           "misMatchPercentage": "0.41",
-          "analysisTime": 62
+          "analysisTime": 68
         }
       },
       "status": "pass"
@@ -54,7 +54,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Fieldset_tag-0.png",
-        "test": "../bitmaps_test/20220811-224605/Fieldset_tag-0.png",
+        "test": "../bitmaps_test/20220812-152742/Fieldset_tag-0.png",
         "selector": "fieldset",
         "fileName": "Fieldset_tag-0.png",
         "label": "Fieldset tag",
@@ -78,7 +78,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Fieldset_tag-1.png",
-        "test": "../bitmaps_test/20220811-224605/Fieldset_tag-1.png",
+        "test": "../bitmaps_test/20220812-152742/Fieldset_tag-1.png",
         "selector": "fieldset.__n1",
         "fileName": "Fieldset_tag-1.png",
         "label": "Fieldset tag",
@@ -102,7 +102,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Fieldset_tag-2.png",
-        "test": "../bitmaps_test/20220811-224605/Fieldset_tag-2.png",
+        "test": "../bitmaps_test/20220812-152742/Fieldset_tag-2.png",
         "selector": "fieldset.__n2",
         "fileName": "Fieldset_tag-2.png",
         "label": "Fieldset tag",
@@ -119,7 +119,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.76",
-          "analysisTime": 47
+          "analysisTime": 37
         }
       },
       "status": "pass"
@@ -127,7 +127,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Fieldset_tag-3.png",
-        "test": "../bitmaps_test/20220811-224605/Fieldset_tag-3.png",
+        "test": "../bitmaps_test/20220812-152742/Fieldset_tag-3.png",
         "selector": "fieldset.__n3",
         "fileName": "Fieldset_tag-3.png",
         "label": "Fieldset tag",
@@ -144,7 +144,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.25",
-          "analysisTime": 42
+          "analysisTime": 32
         }
       },
       "status": "pass"
@@ -152,7 +152,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Submit_button-0.png",
-        "test": "../bitmaps_test/20220811-224605/Submit_button-0.png",
+        "test": "../bitmaps_test/20220812-152742/Submit_button-0.png",
         "selector": "[type=\"submit\"]",
         "fileName": "Submit_button-0.png",
         "label": "Submit button",
@@ -176,7 +176,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Email_with_placeholder-0.png",
-        "test": "../bitmaps_test/20220811-224605/Email_with_placeholder-0.png",
+        "test": "../bitmaps_test/20220812-152742/Email_with_placeholder-0.png",
         "selector": "[type=\"email\"][placeholder]",
         "fileName": "Email_with_placeholder-0.png",
         "label": "Email with placeholder",
@@ -200,7 +200,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/Number_with_value-0.png",
-        "test": "../bitmaps_test/20220811-224605/Number_with_value-0.png",
+        "test": "../bitmaps_test/20220812-152742/Number_with_value-0.png",
         "selector": "[type=\"number\"][value]",
         "fileName": "Number_with_value-0.png",
         "label": "Number with value",

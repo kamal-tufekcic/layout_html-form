@@ -1,1 +1,0 @@
-{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,KACE,UACF,CAEA,uBACE,kBAAmB,CACnB,aACF,CAEA,SACE,kBACF","file":"style.3b344e1f.css","sourceRoot":"../src","sourcesContent":["/* styles go here */\n#age {\n  width: 79px;\n}\n\nlabel:not(:last-child) {\n  margin-bottom: 10px;\n  display: block;\n}\n\nfieldset {\n  margin-bottom: 20px;\n}\n"]}
